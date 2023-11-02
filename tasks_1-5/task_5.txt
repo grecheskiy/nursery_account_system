@@ -1,0 +1,139 @@
+rekov@grekov-1-2:~/Downloads$ history
+    1  sudo apt update
+    2  clear
+    3  mkdir nursery
+    4  cd nursery
+    5  cat home_animals
+    6  cat > home_animals
+    7  cat > pack_animals
+    8  cat home_animals pack_animals > animals
+    9  cat animals
+   10  mv animals mans_friends
+   11  ls -ali
+   12  cd ..
+   13  mkdir nursery_system
+   14  cd nursery
+   15  mv mans_friends nursery_system
+   16  cd nursery_system
+   17  nano home_animals.txt
+   18  ls
+   19  cat home_animals.txt
+   20  clear
+   21  ls
+   22  nano home_animals.txt
+   23  nano pack_animals.txt
+   24  cat home_animals
+   25  cat home_animals.txt
+   26  cat pack_animals.txt
+   27  cat home_animals.txt pack_animals.txt > animals.txt
+   28  cat animals.txt
+   29  mv animals.txt mans_friends.txt
+   30  mkdir nursery_system
+   31  mv mans_friends.txt nursery_system 
+   32  cd nursery_system
+   33  cd ..
+   34  ls
+   35  cd nursery_system/
+   36  ls
+   37  cd ..
+   38  cd nursery
+   39  ls
+   40  rmdir home_animals
+   41  rm home_animals
+   42  rm pack_animals
+   43  rm nursery_system 
+   44  ls
+   45  nano animals.txt
+   46  ls
+   47  nano animals.txt
+   48  cat home_animals.txt pack_animals.txt > animals.txt
+   49  nano animals.txt
+   50  cat animals.txt 
+   51  cd..
+   52  cd ..
+   53  ls
+   54  cat nursery_system/
+   55  cat nursery_system
+   56  cd nursery_system
+   57  ls
+   58  mv nursery nursery_system 
+   59  cd nursery
+   60  cd ..
+   61  cd nursery
+   62  mv nursery nursery_system 
+   63  cp nursery nursery_system 
+   64  mv nursery ~/nursery_system 
+   65  pwd
+   66  mv animals.txt /home/grekov/nursery_system/ 
+   67  cd ..
+   68  cd nursery_system/
+   69  ls
+   70  cat animals.txt 
+   71  clear
+   72  pwd
+   73  cd ..
+   74  ls
+   75  cd Downloads/
+   76  cd ..
+   77  cd nursery_system/
+   78  sudo dpkg -i /home/grekov/Downloads/mysql-apt-config_0.8.28-1_all.deb
+   79  cd ..
+   80  cd Downloads/
+   81  ls
+   82  cd ..
+   83  clear
+   84  sudo wget https://repo.mysql.com/apt/ubuntu
+   85  clear
+   86  sudo wget https://dev.mysql.com/get/mysql-apt-config_0.8.28-1_all.deb
+   87  clear
+   88  cd Downloads/
+   89  ls
+   90  sudo dpkg -i mysql-apt-config_0.8.28-1_all.deb
+   91  sudo apt set update
+   92  sudo apt-get update
+   93  sudo apt-get install mysql-server
+   94  clear
+   95  sudo wget https://download.docker.com/linux/ubuntu/
+   96  clear
+   97  ls
+   98  sudo dpkg -i docker-ce-cli_24.0.7-1~ubuntu.22.04~jammy_amd64.deb 
+   99  sudo dpkg -r docker-ce-cli_24.0.7-1~ubuntu.22.04~jammy_amd64.deb 
+  100  cd ..
+  101  sudo dpkg -r docker-ce-cli_24.0.7-1~ubuntu.22.04~jammy_amd64.deb 
+  102  sudo dpkg -force -r docker-ce-cli_24.0.7-1~ubuntu.22.04~jammy_amd64.deb 
+  103  ls
+  104  sudo apt-get uninstall docker-compose
+  105  sudo apt-get --help
+  106  sudo apt-get remove docker-compose
+  107  clear
+  108  sudo dpkg -i docker-ce-cli_24.0.7-1~ubuntu.22.04~jammy_amd64.deb 
+  109  clear
+  110  cd download
+  111  cd downloads
+  112  clear
+  113  ls
+  114  cd 
+  115  cd Downloads
+  116  ls
+  117  sudo dpkg -i docker-ce-cli_24.0.7-1~ubuntu.22.04~jammy_amd64.deb 
+  118  sudo apt-get remove docker
+  119  sudo dpkg -i docker-ce-cli_24.0.7-1~ubuntu.22.04~jammy_amd64.deb 
+  120  clear
+  121  sudo dpkg -r mysql-apt-config_0.8.28-1_all.deb
+  122  sudo dpkg -r --h
+  123  sudo dpkg -r --help
+  124  sudo dpkg --help
+  125  sudo dpkg -r docker-ce-cli_24.0.7-1~ubuntu.22.04~jammy_amd64.deb 
+  126  clear
+  127  sudo dpkg -l | grep grid
+  128  sudo dpkg -l | grep .dep
+  129  ls
+  130  clear
+  131  sudo dpkg -l | grep mysql
+  132  sudo dpkg -r mysql-apt-config
+  133  sudo dpkg -l | grep mysql
+  134  sudo dpkg -r mysql-apt-config
+  135  clear
+  136  history
+grekov@grekov-1-2:~/Downloads$ 
+

@@ -1,10 +1,9 @@
 package UserInterface;
 
 import java.util.Scanner;
-
+import Controller.*;
 import Exceptions.UncorrectDataException;
 import Model.PetType;
-import System.src.Controller.*;
 
 public class ConsoleMenu {
 

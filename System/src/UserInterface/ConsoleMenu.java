@@ -35,7 +35,7 @@ public class ConsoleMenu {
                             try {
                                 petController.createPet(type);
                                 count.add();
-                                System.out.println("ОК");
+                                System.out.println("OK");
                             } catch (UncorrectDataException e) {
                                 System.out.println(e.getMessage());
                             }
